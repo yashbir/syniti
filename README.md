@@ -1,6 +1,6 @@
-# syniti
+# Syniti
 
-Responses to Wonderful questions by Syniti
+Please check `answers.md` for answers related to non-coding questions.
 
 ### Dependency
 
